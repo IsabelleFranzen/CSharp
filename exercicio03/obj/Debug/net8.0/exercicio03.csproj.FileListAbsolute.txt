@@ -1,0 +1,14 @@
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\bin\Debug\net8.0\exercicio03.exe
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\bin\Debug\net8.0\exercicio03.deps.json
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\bin\Debug\net8.0\exercicio03.runtimeconfig.json
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\bin\Debug\net8.0\exercicio03.dll
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\bin\Debug\net8.0\exercicio03.pdb
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.AssemblyInfoInputs.cache
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.AssemblyInfo.cs
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.csproj.CoreCompileInputs.cache
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.dll
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\refint\exercicio03.dll
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.pdb
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\exercicio03.genruntimeconfig.cache
+c:\Users\isabellefranzen\Documents\Rotinas IF\Estudos\CSharp\exercicio03\obj\Debug\net8.0\ref\exercicio03.dll
