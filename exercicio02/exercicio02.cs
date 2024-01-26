@@ -1,4 +1,6 @@
-﻿int gradeA = 4;
+﻿//Criar grade de notas para os alunos.
+
+int gradeA = 4;
 int gradeB = 3;
 
 string nomeEstudante = "Sophia Johnson";

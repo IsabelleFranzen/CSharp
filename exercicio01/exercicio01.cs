@@ -1,4 +1,6 @@
-﻿int avaliacoes = 5;
+﻿//Calcular a nota media dos alunos.
+
+int avaliacoes = 5;
 /*  97 - 100    A+
     93 - 96     A
     90 - 92     A-

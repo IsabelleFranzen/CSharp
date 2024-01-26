@@ -1,4 +1,6 @@
-﻿Random dias = new Random();
+﻿// Informar quando a assinatura for expirar.
+
+Random dias = new Random();
 int diasParaExpirar = dias.Next(12);
 int porcentagemDesconto = 0;
 

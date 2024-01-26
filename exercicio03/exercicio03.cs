@@ -1,4 +1,4 @@
-﻿//Entre dois números qual número é o maior.
+﻿//Entre os dois números informados qual número é o maior.
 
 int primeiroNumero = 30;
 int segundoNumero = 15;

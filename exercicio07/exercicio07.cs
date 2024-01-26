@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Criar uma grade de notas para alunos com maiores informações.
+
+using System;
 int materias = 5;
 
 int[] sophiaNotas = new int[] { 90, 86, 87, 98, 100, 94, 90 };

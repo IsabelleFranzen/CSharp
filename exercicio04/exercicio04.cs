@@ -4,7 +4,7 @@ Se os três dados rolados resultarem no mesmo valor, você receberá seis pontos
 Se a pontuação do jogador for maior ou igual a 16, ele ganhará um carro novo.
 Se a pontuação do jogador for maior ou igual a 10, ele ganhará um laptop novo.
 Se a pontuação do jogador for exatamente 7, ele ganhará uma viagem.
-Caso contrário, ganhará um gatinho.*/
+Caso contrário, ganhará um gatinho. */
 
 Random dice = new Random();
 int roll1 = dice.Next(1,7);
